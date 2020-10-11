@@ -1,0 +1,12 @@
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\bin\Debug\netcoreapp3.1\AssetTracket_Data.deps.json
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\bin\Debug\netcoreapp3.1\AssetTracket_Data.dll
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.csprojAssemblyReference.cache
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.AssemblyInfo.cs
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\bin\Debug\netcoreapp3.1\AssetTracket_Data.runtimeconfig.json
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\bin\Debug\netcoreapp3.1\AssetTracket_Data.runtimeconfig.dev.json
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\bin\Debug\netcoreapp3.1\AssetTracket_Data.pdb
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.dll
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.pdb
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.genruntimeconfig.cache
+C:\Users\AP\source\repos\AssetTracker\AssetTracket_Data\obj\Debug\netcoreapp3.1\AssetTracket_Data.csproj.CoreCompileInputs.cache
